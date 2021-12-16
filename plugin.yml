@@ -1,0 +1,9 @@
+name: Challenger
+main: com.penumbron.challenger.Challenger
+version: 1.3
+author: Penumbron
+api-version: 1.18
+commands:
+  challenge:
+    description: Challenge another player to a pvp duel
+usage: /challenge
